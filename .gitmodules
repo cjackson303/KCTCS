@@ -1,0 +1,6 @@
+[submodule "Week9-Labs-y"]
+	path = Week9-Labs-y
+	url = https://github.com/cjackson303/KCTCS.git
+[submodule "Week9-Labs-z"]
+	path = Week9-Labs-z
+	url = https://github.com/cjackson303/KCTCS.git
